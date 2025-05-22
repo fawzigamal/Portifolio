@@ -13,7 +13,7 @@ My technical competencies combine foundational cybersecurity knowledge with prac
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/fawzigamal">Security Operations Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://fawzigamal.github.io/Projects/">Security Operations Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/fawzigamal">Network Security Analysis Project</a>|
 | Python & SQL Programming for Security Automation | <a href="https://github.com/fawzigamal">Automation Scripts Repository</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/fawzigamal">SOC Simulation Lab</a>|
