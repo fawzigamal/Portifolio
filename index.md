@@ -1,11 +1,13 @@
 # Hello, I'm Fawzi Gamal
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fawzi-gamal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an experienced cybersecurity professional with a unique background spanning healthcare, business management, and information technology. My analytical problem-solving approach and commitment to helping others overcome complex challenges drive my passion for cybersecurity operations and threat detection.
+A cybersecurity professional with combined experience in healthcare and IT management, now specializing in SOC analysis. I'm passionate about protecting organizations from cyber threats. 
+I'm pursuing front-line cybersecurity defense because I've seen firsthand how security incidents disrupt operations. My background has equipped me with precision under pressure, robust data analysis skills for identifying critical patterns, and proven experience managing sensitive information securely. 
+
 
 ## Objective
 
-My journey through diverse professional experiences has led me to develop a profound interest in cybersecurity, particularly in security operations and incident response. With over 15 years of experience in complex problem-solving across healthcare, technology, and business operations, I am now eager to transition into the cybersecurity field as a SOC Analyst, where I can apply my analytical skills and technical expertise to protect organizations from evolving threats.
+My journey through diverse professional experiences has led me to develop a profound interest in cybersecurity, particularly in security operations and incident response. I am now eager to transition into the cybersecurity field as a SOC Analyst, where I can apply my analytical skills and technical expertise to protect organizations from evolving threats.
 
 ## Skills
 
